@@ -1,0 +1,9 @@
+streamlit
+ultralytics
+pymongo
+bson
+pillow
+numpy
+opencv-python-headless
+pandas
+python-dotenv
