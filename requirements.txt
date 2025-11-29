@@ -1,8 +1,9 @@
-streamlit
-ultralytics==8.2.103
-opencv-python-headless==4.10.0.84
-numpy
-pillow
-pymongo
-pandas
-bson
+streamlit==1.31.0
+pymongo==4.6.1
+Pillow==10.2.0
+numpy==1.26.4
+pandas==2.2.1
+opencv-python-headless==4.9.0.80
+ultralytics==8.0.196
+bson==0.5.10
+python-dateutil==2.9.0.post0
