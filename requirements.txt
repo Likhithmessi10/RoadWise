@@ -1,9 +1,7 @@
 streamlit
+ultralytics
+opencv-python-headless
 pymongo
-Pillow
+pillow
 numpy
 pandas
-opencv-python-headless
-ultralytics
-bson
-python-dateutil
