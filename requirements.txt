@@ -1,9 +1,9 @@
 streamlit
-ultralytics
+ultralytics==8.1.0
 pymongo
-bson
-pillow
-numpy
-opencv-python-headless
 pandas
+numpy
+Pillow
+opencv-python-headless
+bson
 python-dotenv
